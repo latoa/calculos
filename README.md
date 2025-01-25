@@ -23,5 +23,3 @@ Neste momento esta aplicação implementa as seguintes operações:
 - C#
 - GitHub Desktop
 - Plataforma GitHub
-
-## Site oficial
